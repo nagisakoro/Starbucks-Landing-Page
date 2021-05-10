@@ -177,7 +177,7 @@ max-width: 340px;
     width: 30px;
     height: 30px;
     cursor: pointer;
-    background: url(/img/menu.png);
+    background: url(img/menu.png);
     background-size: 30px;
     background-position: center;
     background-repeat: no-repeat;
@@ -188,7 +188,7 @@ max-width: 340px;
     {
         position: fixed;
         right: 20px;
-        background: url(/img/close.png);
+        background: url(img/close.png);
         background-size: 25px;
         background-position: center;
         background-repeat: no-repeat;
